@@ -1,1 +1,2 @@
-My first readme
+My first readme. 
+ONLY TIME AM ALLOWED TO UPDATE VIA GITHUB DIRECTY. FEELS GOOD.
